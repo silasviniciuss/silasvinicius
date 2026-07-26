@@ -70,7 +70,7 @@ export const Footer: React.FC = () => {
             
             <div className="flex items-center gap-2">
               <a
-                href="https://wa.me/5511999999999"
+                href="https://wa.me/5561991043055"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-xl bg-neutral-900 border border-neutral-800 text-neutral-300 hover:text-emerald-400 hover:border-emerald-500/40 transition-colors"
@@ -79,7 +79,7 @@ export const Footer: React.FC = () => {
                 <MessageCircle className="w-4 h-4 fill-current" />
               </a>
               <a
-                href="https://instagram.com"
+                href="https://instagram.com/silas.viniciuss"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-xl bg-neutral-900 border border-neutral-800 text-neutral-300 hover:text-pink-400 hover:border-pink-500/40 transition-colors"
@@ -121,12 +121,11 @@ export const Footer: React.FC = () => {
         {/* Bottom Bar Copyright */}
         <div className="pt-8 border-t border-neutral-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-neutral-500 font-mono">
           <div>
-            © {new Date().getFullYear()} Silas Vinícius Studio. Todos os direitos reservados.
+            © {new Date().getFullYear()} Silas Vinícius. Todos os direitos reservados.
           </div>
           <div className="flex items-center gap-1 text-[11px]">
-            <span>Desenvolvido com</span>
-            <Heart className="w-3 h-3 text-red-500 fill-current" />
-            <span>React & Tailwind v4</span>
+            <span>Desenvolvido por</span>
+            <span>Silas Vinícius</span>
           </div>
         </div>
 
