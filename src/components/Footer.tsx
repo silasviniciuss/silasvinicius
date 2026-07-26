@@ -79,7 +79,7 @@ export const Footer: React.FC = () => {
                 <MessageCircle className="w-4 h-4 fill-current" />
               </a>
               <a
-                href="https://instagram.com/silas.viniciuss"
+                href="https://www.instagram.com/silas.viniciuss/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-xl bg-neutral-900 border border-neutral-800 text-neutral-300 hover:text-pink-400 hover:border-pink-500/40 transition-colors"
