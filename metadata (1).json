@@ -1,0 +1,6 @@
+{
+  "name": "Portfólio Premium - Designer & Editor de Vídeo",
+  "description": "Portfólio de alta performance para designer gráfico, editor de vídeo e motion designer com gerenciador de projetos, galeria antes/depois e reprodutor interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
