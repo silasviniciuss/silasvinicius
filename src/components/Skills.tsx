@@ -17,14 +17,10 @@ export const Skills: React.FC = () => {
         return <Film className="w-5 h-5 text-purple-400" />;
       case 'Adobe After Effects':
         return <Sparkles className="w-5 h-5 text-indigo-400" />;
-      case 'DaVinci Resolve':
-        return <Clapperboard className="w-5 h-5 text-blue-400" />;
       case 'Adobe Photoshop':
         return <ImageIcon className="w-5 h-5 text-cyan-400" />;
       case 'Adobe Illustrator':
         return <PenTool className="w-5 h-5 text-amber-400" />;
-      case 'Blender 3D':
-        return <Box className="w-5 h-5 text-orange-400" />;
       case 'Figma':
         return <Figma className="w-5 h-5 text-emerald-400" />;
       case 'CapCut Pro':
