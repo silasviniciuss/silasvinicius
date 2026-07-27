@@ -98,7 +98,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
 
               {/* WhatsApp Card */}
               <a
-                href="https://wa.me/5511999999999?text=Ol%C3%A1!%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20audiovisual."
+                href="https://wa.me/5561991043055?text=Ol%C3%A1!%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20audiovisual."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-between p-4 rounded-xl bg-emerald-950/30 border border-emerald-500/30 hover:border-emerald-400 transition-all group"
@@ -109,7 +109,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
                   </div>
                   <div>
                     <div className="text-xs font-mono text-emerald-400">Resposta Rápida (WhatsApp)</div>
-                    <div className="text-sm font-bold text-white">+55 (11) 99999-9999</div>
+                    <div className="text-sm font-bold text-white">+55 (61) 99104-3055</div>
                   </div>
                 </div>
                 <span className="text-xs text-emerald-400 font-mono group-hover:underline">Chamar →</span>
@@ -123,11 +123,11 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
                   </div>
                   <div>
                     <div className="text-xs font-mono text-neutral-400">Email Comercial</div>
-                    <div className="text-sm font-bold text-white">contato@silasvinicius.studio</div>
+                    <div className="text-sm font-bold text-white">silasvinicius.dev@gmail.com</div>
                   </div>
                 </div>
                 <button
-                  onClick={() => handleCopy('contato@silasvinicius.studio', 'Email')}
+                  onClick={() => handleCopy('silasvinicius.dev@gmail.com', 'Email')}
                   className="p-2 text-neutral-400 hover:text-white"
                   title="Copiar Email"
                 >
@@ -142,7 +142,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
                 </div>
                 <div>
                   <div className="text-xs font-mono text-neutral-400">Localização Base</div>
-                  <div className="text-sm font-bold text-white">São Paulo, SP — Atendimento Global</div>
+                  <div className="text-sm font-bold text-white">Brasília, DF — Atendimento Global</div>
                 </div>
               </div>
 
@@ -152,7 +152,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
                   <Clock className="w-4 h-4" />
                   <span>Horário de Atendimento</span>
                 </div>
-                <p>Segunda a Sexta: 09:00h - 19:00h (GMT-3)</p>
+                <p>Segunda a Sexta: 09:00h - 17:00h (GMT-3)</p>
                 <p>Projetos urgentes sob demanda especial de plantão nos finais de semana.</p>
               </div>
 
