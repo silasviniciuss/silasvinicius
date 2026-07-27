@@ -92,7 +92,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenCMS, activeSection }) => {
 
           {/* WhatsApp Direct CTA */}
           <a
-            href="https://wa.me/5511999999999?text=Ol%C3%A1!%20Vim%20pelo%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20um%20or%C3%A7amento."
+            href="https://wa.me/5561991043055?text=Ol%C3%A1!%20Vim%20pelo%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20um%20or%C3%A7amento."
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-xs font-semibold text-white bg-blue-600 hover:bg-blue-500 px-4 py-2 rounded-lg shadow-[0_0_20px_rgba(59,130,246,0.4)] transition-all hover:scale-[1.02]"
@@ -152,7 +152,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenCMS, activeSection }) => {
             </button>
 
             <a
-              href="https://wa.me/5511999999999?text=Ol%C3%A1!%20Vim%20pelo%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20um%20or%C3%A7amento."
+              href="https://wa.me/5561991043055?text=Ol%C3%A1!%20Vim%20pelo%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20um%20or%C3%A7amento."
               target="_blank"
               rel="noopener noreferrer"
               onClick={() => setMobileMenuOpen(false)}
